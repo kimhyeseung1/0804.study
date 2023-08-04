@@ -1,0 +1,31 @@
+@charset "utf-8";
+*{
+    box-sizing: border-box;
+}
+.container,.mix-wrapper{
+    width: 80%;
+    margin: 50px auto;
+}
+.mix{
+    width: 20%;
+    margin: 20px 10px;
+    text-align: center;
+    background-color: #ccc;
+    padding: 5px;
+    display: inline-block;
+    color: #fff;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+    background: url("../images/강아지.jpg") no-repeat;
+    background-size:cover;
+}
+.black{
+    background-color: black;
+}
+.green{
+    background-color: green;
+}

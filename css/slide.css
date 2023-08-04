@@ -89,3 +89,7 @@ ul,li{
     margin-top: 10px;
     color: #444;
 }
+/* 만약에 버튼 이미지 바꾸고 싶으면 밑에꺼 사용해서 이미지 바꿔도 됨 */
+.bx-wrapper .bx-next{
+    background: url();
+}
